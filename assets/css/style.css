@@ -1494,7 +1494,7 @@ section {
 }
 .contact .info i {
   font-size: 20px;
-  background: #0880e8;
+  background: #74c69d;
   color: #fff;
   float: left;
   width: 44px;
@@ -2056,7 +2056,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #74c69d;
+  background: #033d1e;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
