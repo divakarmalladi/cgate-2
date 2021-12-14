@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgb(0 0 0 / 48%);
+  background: rgb(25 56 40);
   transition: all 0.5s;
   z-index: 997;
   height: 70px;
@@ -173,7 +173,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #header .logo img {
-  max-height: 70px;
+  max-height: 50px;
 }
 
 .header-inner-pages {
